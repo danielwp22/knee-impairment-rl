@@ -1,6 +1,6 @@
 # Knee-Limited Humanoid Locomotion in Isaac Lab (H1 Knee80)
 
-This project is a small, targeted modification to NVIDIA Isaac Lab’s Unitree H1 locomotion task to simulate a **gait impairment** via **reduced knee flexion range-of-motion (ROM)** and train a policy that can still walk **stably** under that constraint.
+This project is a small, targeted modification to NVIDIA Isaac Lab’s Unitree H1 locomotion task to simulate a **gait impairment** via **reduced knee flexion range-of-motion (ROM)** and train a policy using reinforcement learning (PPO) that can still walk **stably** under that constraint.
 
 ## Demo
 
