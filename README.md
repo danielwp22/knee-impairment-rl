@@ -2,7 +2,9 @@
 
 This project is a small, targeted modification to NVIDIA Isaac Lab’s Unitree H1 locomotion task to simulate a **gait impairment** via **reduced knee flexion range-of-motion (ROM)** and train a policy that can still walk **stably** under that constraint.
 
-A demo GIF is included here: https://imgur.com/a/Lxfvi7R
+## Demo
+
+![Knee80 gait demo](./PPO_gait_improvement.gif)
 
 ---
 
